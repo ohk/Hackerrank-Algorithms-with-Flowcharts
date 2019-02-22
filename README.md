@@ -1,6 +1,6 @@
 # Hackerrank-Algorithms-with-Flowcharts
 
-------------------------------------------------------------- TR -------------------------------------------------------------
+##------------------------------------------------------------- TR -------------------------------------------------------------##
 Bu repoda bulunan tüm sorular www.hackerrank.com adresine aittir. Burada bulunan Türkçe içerikler çeviridir.
 Kodların tamamı python3 ile yazılmıştır. İçerikler sürekli olarak eklenmeye devam edecektir.
 
@@ -11,18 +11,31 @@ Eğer buradaki içeriklere katkı bulunmak isterseniz, "Commit to master :)"
 Çevrilen içeriklerin tam listesi:
 
 001 - 15.02.2019 - https://www.hackerrank.com/challenges/solve-me-first/problem
+
 002 - 15.02.2019 - https://www.hackerrank.com/challenges/compare-the-triplets/problem
+
 003 - 15.02.2019 - https://www.hackerrank.com/challenges/a-very-big-sum/problem
+
 004 - 18.02.2019 - https://www.hackerrank.com/challenges/diagonal-difference/problem
+
 005 - 18.02.2019 - https://www.hackerrank.com/challenges/plus-minus/problem
+
 006 - 18.02.2019 - https://www.hackerrank.com/challenges/staircase/problem
+
 007 - 18.02.2019 - https://www.hackerrank.com/challenges/mini-max-sum/problem
+
 008 - 21.02.2019 - https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+
 009 - 21.02.2019 - https://www.hackerrank.com/challenges/grading/problem
+
 010 - 21.02.2019 - https://www.hackerrank.com/challenges/apple-and-orange/problem
+
 011 - 21.02.2019 - https://www.hackerrank.com/challenges/kangaroo/problem
+
 012 - 21.02.2019 - https://www.hackerrank.com/challenges/between-two-sets/problem
+
 013 - 21.02.2019 - https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+
 015 - 21.02.2019 - https://www.hackerrank.com/challenges/the-birthday-bar/problem
 
 
